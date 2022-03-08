@@ -1,0 +1,24 @@
+{
+  "name": "js-slideshow",
+  "version": "1.0.5",
+  "description": "make your customized slideshow with javascript in your html file and websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slide",
+    "style",
+    "index"
+  ],
+  "author": "charles ndungutse",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NdungutseCharles103/my-projects.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NdungutseCharles103/my-projects/issues"
+  },
+  "homepage": "https://github.com/NdungutseCharles103/my-projects#readme"
+}
